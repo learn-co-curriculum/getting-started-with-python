@@ -21,9 +21,12 @@ can help you stand out as a candidate.
 
 There are many free resources online for learning Python. We recommend first checking out the documentation
 available at [python.org](https://www.python.org/about/gettingstarted/) to get setup. After you've got
-everything setup take a look around for tutorials that fit your needs. [The Hitchhiker's Guide to Python][]
-is a good comprehensive resource, but there are many other free options that can be found with a quick Google
-search.
+everything setup take a look around for tutorials that fit your needs. [JetBrains][] has recently made their
+[Python IDE](https://www.jetbrains.com/pycharm/) free to use and the JetBrains Academy provides 
+[tutorials for all skill levels using their IDE][jb tutorial].
+
+[The Hitchhiker's Guide to Python][] is another good comprehensive resource and there are many other free option
+that can be found with a quick Google search.
 
 ## Resources
 
@@ -37,3 +40,5 @@ search.
 [Django]: https://www.djangoproject.com/
 [Flask]: https://palletsprojects.com/p/flask/
 [The Hitchhiker's Guide to Python]: https://docs.python-guide.org/intro/learning/
+[JetBrains]: https://www.jetbrains.com/
+[jb tutorial]: https://hyperskill.org/onboarding/?track=python
